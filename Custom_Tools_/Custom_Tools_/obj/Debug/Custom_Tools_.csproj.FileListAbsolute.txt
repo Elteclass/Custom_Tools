@@ -1,0 +1,6 @@
+C:\Users\jimmy\OneDrive\Escritorio\topics\Custom_Tools_\Custom_Tools_\bin\Debug\Custom_Tools_.dll
+C:\Users\jimmy\OneDrive\Escritorio\topics\Custom_Tools_\Custom_Tools_\bin\Debug\Custom_Tools_.pdb
+C:\Users\jimmy\OneDrive\Escritorio\topics\Custom_Tools_\Custom_Tools_\obj\Debug\Custom_Tools_.csproj.AssemblyReference.cache
+C:\Users\jimmy\OneDrive\Escritorio\topics\Custom_Tools_\Custom_Tools_\obj\Debug\Custom_Tools_.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\OneDrive\Escritorio\topics\Custom_Tools_\Custom_Tools_\obj\Debug\Custom_Tools_.dll
+C:\Users\jimmy\OneDrive\Escritorio\topics\Custom_Tools_\Custom_Tools_\obj\Debug\Custom_Tools_.pdb
